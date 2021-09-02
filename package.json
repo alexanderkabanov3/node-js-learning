@@ -9,9 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "nodemon": "^2.0.12",
-    "prettier": "^2.3.2"
+  "dependencies": {
+    "slugify": "~1.6.0"
   }
 }
