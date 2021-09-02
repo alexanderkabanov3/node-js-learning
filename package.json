@@ -4,12 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderkabanov3/node-js-learning.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderkabanov3/node-js-learning/issues"
+  },
+  "homepage": "https://github.com/alexanderkabanov3/node-js-learning#readme",
   "dependencies": {
-    "slugify": "~1.6.0"
+    "express": "~4.17.1"
   }
 }
